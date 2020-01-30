@@ -1,0 +1,322 @@
+2 4 6 8 A C E 10 12 14 16 18 1A 1C 1E 20
+------
+2X1=2 ,tuu vnja tuu
+2X2=4 ,tuu tuja phor
+2X3=6 ,tuu xhrija siks
+2X4=8 ,tuu phorja et
+2X5=A ,tuu phaivja ten
+2X6=C ,tuu siksja sii
+2X7=E ,tuu sevenja ii
+2X8=10 ,tuu etja vntisuny
+2X9=12 ,tuu nainja vntitu
+2XA=14 ,tuu tenja vntiphor
+2XB=16 ,tuu biija vntisiks
+2XC=18 ,tuu siija vntiet
+2XD=1A ,tuu diija vntiten
+2XE=1C ,tuu iija vntisii
+2XF=1E ,tuu fiija vntii
+2X10=20 ,tuu vntisunyja tutisuny
+---------------------------------------------
+3 6 9 C F 12 15 18 1B 1E 21 24 27 2A 2D 30
+--------
+3X1=3 ,xhri vnja xhri
+3X2=6 ,xhri tuja siks
+3X3=9 ,xhri xhrija nain
+3X4=C ,xhri phorja sii
+3X5=F ,xhri phaivja fii
+3X6=12 ,xhri siksja vntitu
+3X7=15 ,xhri sevenja vntiphaiv
+3X8=18 ,xhri etja vntiet
+3X9=1B ,xhri nainja vntibii
+3XA=1E ,xhri tenja vntii
+3XB=21 ,xhri biija tutivn
+3XC=24 ,xhri siija tutiphor
+3XD=27 ,xhri diija tutiseven
+3XE=2A ,xhri iija tutiten
+3XF=2D ,xhri fiija tutidii
+3X10=30 ,xhri vntisunyja xhrtiisuny
+---------------------------------------------
+4 8 C 10 14 18 1C 20 24 28 2C 30 34 38 3C 40
+--------
+4X1=4 ,phor vnja phor
+4X2=8 ,phor tuja et
+4X3=C ,phor xhrija sii
+4X4=10 ,phor phorja vntisuny
+4X5=14 ,phor phaivja vntiphor
+4X6=18 ,phor siksja vntiet
+4X7=1C ,phor sevenja vntisii
+4X8=20 ,phor etja tutisuny
+4X9=24 ,phor nainja tutiphor
+4XA=28 ,phor tenja tutiet
+4XB=2C ,phor biija tutisii
+4XC=30 ,phor siija xhrtisuny
+4XD=34 ,phor diija xhrtiphor
+4XE=38 ,phor iija xhrtiet
+4XF=3C ,phor fiija xhrtisii
+4X10=40 ,phor vntisunyja phortisuny
+---------------------------------------------
+5 A F 14 19 1E 23 28 2D 32 37 3C 41 46 4B 50
+-----------
+5X1=5 ,phaiv vnja phaiv
+5X2=A ,phaiv tuja ten
+5X3=F ,phaiv xhrija fii
+5X4=14 ,phaiv phorja vntiphor
+5X5=19 ,phaiv phaivja vntinain
+5X6=1E ,phaiv siksja vntii
+5X7=23 ,phaiv sevenja tutixhri
+5X8=28 ,phaiv etja tutiet
+5X9=2D ,phaiv nainja tutidii
+5XA=32 ,phaiv tenja xhrtitu
+5XB=37 ,phaiv biija xhrtiseven
+5XC=3C ,phaiv siija xhrtisii
+5XD=41 ,phaiv diija phortivn
+5XE=46 ,phaiv iija phortisiks
+5XF=4B ,phaiv fiija phortibii
+5X10=50 ,phaiv vntisunyja phiphtisuny
+-----------------------------------------------
+6 C 12 18 1E 24 2A 30 36 3C 42 48 4E 54 5A 60
+---------
+6X1=6 ,siks vnja siks
+6X2=C ,siks tuja sii
+6X3=12 ,siks xhrija vntitu
+6X4=18 ,siks phorja vntiet
+6X5=1E ,siks phaivja vntii
+6X6=24 ,siks siksja tutiphor
+6X7=2A ,siks sevenja tutiten
+6X8=30 ,siks etja xhrti
+6X9=36 ,siks nainja xhrtisiks
+6XA=3C ,siks tenja xhrtisii
+6XB=42 ,siks biija phortitu
+6XC=48 ,siks siija phortiet
+6XD=4E ,siks diija phortii
+6XE=54 ,siks iija phiphtiphor
+6XF=5A ,siks fiija phiphtiten
+6X10=60 ,siks vntisunyja sikstisuny
+-----------------------------------------------
+7 E 15 1C 23 2A 31 38 3F 46 4D 54 5B 62 69 70
+------
+7X1=7 ,seven vnja seven
+7X2=E ,seven tuja ii
+7X3=15 ,seven xhrija vntiphaiv
+7X4=1C ,seven phorja vntisii
+7X5=23 ,seven phaivja tutixhri
+7X6=2A ,seven siksja tutiten
+7X7=31 ,seven sevenja xhrtivn
+7X8=38 ,seven etja xhrtiet
+7X9=3F ,seven nainja xhrtifii
+7XA=46 ,seven tenja phortisiks
+7XB=4D ,seven biija phortidii
+7XC=54 ,seven siija phiphtiphor
+7XD=5B ,seven diija phiphtibii
+7XE=62 ,seven iija sikstitu
+7XF=69 ,seven fiija sikstinain
+7X10=70 ,seven vntisunyja seventisuny
+-----------------------------------------------
+8 10 18 20 28 30 38 40 48 50 58 60 68 70 78 80
+----------
+8X1=8 ,et vnja et
+8X2=10 ,et tuja vntisuny
+8X3=18 ,et xhrija vntiet
+8X4=20 ,et phorja tutisuny
+8X5=28 ,et phaivja tutiet
+8X6=30 ,et siksja xhrtisuny
+8X7=38 ,et sevenja xhrtiet
+8X8=40 ,et etja phortisuny
+8X9=48 ,et nainja phortiet
+8XA=50 ,et tenja phiphtisuny
+8XB=58 ,et biija phiphtiet
+8XC=60 ,et siija sikstisuny
+8XD=68 ,et diija sikstiet
+8XE=70 ,et iija seventisuny
+8XF=78 ,et fiija seventiet
+8X10=80 ,et vntisunyja ettisuny
+-----------------------------------------------
+9 12 1B 24 2D 36 3F 48 51 5A 63 6C 75 7E 87 90
+--------
+9X1=9 ,nain vnja et
+9X2=12 ,nain tuja vntisuny
+9X3=1B ,nain xhrija vntiet
+9X4=24 ,nain phorja tutisuny
+9X5=2D ,nain phaivja tutiet
+9X6=36 ,nain siksja xhrtisuny
+9X7=3F ,nain sevenja xhrtiet
+9X8=48 ,nain etja phortisuny
+9X9=51 ,nain nainja phortiet
+9XA=5A ,nain tenja phiphtisuny
+9XB=63 ,nain biija phiphtiet
+9XC=6C ,nain siija sikstisuny
+9XD=75 ,nain diija sikstiet
+9XE=7E ,nain iija seventisuny
+9XF=87 ,nain fiija seventiet
+9X10=90 ,nain vntisunyja ettisuny
+------------------------------
+A 14 1E 28 32 3C 46 50 5A 64 6E 78 82 8C 96 A0
+---------
+AX1=A ,ten vnja ten
+AX2=14 ,ten tuja vntiphor
+AX3=1E ,ten xhrija vntii
+AX4=28 ,ten phorja tutiet
+AX5=32 ,ten phaivja xhrtitu
+AX6=3C ,ten siksja xhrtisii
+AX7=46 ,ten sevenja phortisiks
+AX8=50 ,ten etja phiphtisuny
+AX9=5A ,ten nainja phiphtiet
+AXA=64 ,ten tenja sikstiphor
+AXB=6E ,ten biija sikstii
+AXC=78 ,ten siija seventiet
+AXD=82 ,ten diija ettitu
+AXE=8C ,ten iija ettisii
+AXF=96 ,ten fiija naintisiks
+AX10=A0 ,ten vntisunyja tentisuny
+-------------------------------------------
+B 16 21 2C 37 42 4D 58 63 6E 79 84 8F 9A A5 B0
+--------
+BX1=B ,bii vnja bii
+BX2=16 ,bii tuja vntisiks
+BX3=21 ,bii xhrija tutivn
+BX4=2C ,bii phorja tutisii
+BX5=37 ,bii phaivja xhrtiseven
+BX6=42 ,bii siksja phortitu
+BX7=4D ,bii sevenja phortidii
+BX8=58 ,bii etja phiphtiet
+BX9=63 ,bii nainja sikstixhri
+BXA=6E ,bii tenja sikstii
+BXB=79 ,bii biija seventinain
+BXC=84 ,bii siija ettiphor
+BXD=8F ,bii diija ettifii
+BXE=9A ,bii iija naintiten
+BXF=A5 ,bii fiija tentiphaiv
+BX10=B0 ,bii vntisunyja bitisuny
+-------------------------------------------
+C 18 24 30 3C 48 54 60 6C 78 84 90 9C A8 B4 C0
+--------
+CX1=C ,sii vnja sii
+CX2=18 ,sii tuja vntiet
+CX3=24 ,sii xhrija tutiphor
+CX4=30 ,sii phorja xhrtisuny
+CX5=3C ,sii phaivja xhrtisii
+CX6=48 ,sii siksja phortiet
+CX7=54 ,sii sevenja phiphtiphor
+CX8=60 ,sii etja sikstisuny
+CX9=6C ,sii nainja sikstsii
+CXA=78 ,sii tenja seventiet
+CXB=84 ,sii biija ettiphor
+CXC=90 ,sii siija naintisuny
+CXD=9C ,sii diija naintisii
+CXE=A8 ,sii iija tentiet
+CXF=B4 ,sii fiija bitiphor
+CX10=C0 ,sii vntisunyja sitisuny
+-------------------------------------------
+D 1A 27 34 41 4E 5B 68 75 82 8F 9C A9 B6 C3 D0
+--------
+DX1=D ,dii vnja dii
+DX2=1A ,dii tuja vntiten
+DX3=27 ,dii xhrija tutiseven
+DX4=34 ,dii phorja xhrtiphor
+DX5=41 ,dii phaivja phortivn
+DX6=4E ,dii siksja phortii
+DX7=5B ,dii sevenja phiphtibii
+DX8=68 ,dii etja sikstiet
+DX9=75 ,dii nainja seventiphaiv
+DXA=82 ,dii tenja ettitu
+DXB=8F ,dii biija ettifii
+DXC=9C ,dii siija naintisii
+DXD=A9 ,dii diija tentinain
+DXE=B6 ,dii iija bitisiks
+DXF=C3 ,dii fiija sitixhri
+DX10=D0 ,dii vntisunyja ditisuny
+-------------------------------------------
+E 1C 2A 38 46 54 62 70 7E 8C 9A A8 B6 C4 D2 E0
+--------
+EX1=E ,ii vnja ii
+EX2=1C ,ii tuja vntisii
+EX3=2A ,ii xhrija tutiten
+EX4=38 ,ii phorja xhrtiet
+EX5=46 ,ii phaivja phortisiks
+EX6=54 ,ii siksja phiphtiphor
+EX7=62 ,ii sevenja sikstitu
+EX8=70 ,ii etja seventisuny
+EX9=7E ,ii nainja seventeee
+EXA=8C ,ii tenja ettisii
+EXB=9A ,ii biija naintiten
+EXC=A8 ,ii siija tentiet
+EXD=B6 ,ii diija bitisiks
+EXE=C4 ,ii iija sitiphor
+EXF=D2 ,ii fiija dititu
+EX10=E0 ,ii vntisunyja iitisuny
+-------------------------------------------
+F 1E 2D 3C 4B 5A 69 78 87 96 A5 B4 C3 D2 E1 F0
+--------
+FX1=F ,fii vnja fii
+FX2=1E ,fii tuja vntiee
+FX3=2D ,fii xhrija tutidii
+FX4=3C ,fii phorja xhrtisii
+FX5=4B ,fii phaivja phortibii
+FX6=5A ,fii siksja phiphtiten
+FX7=69 ,fii sevenja sikstinain
+FX8=78 ,fii etja seventiet
+FX9=87 ,fii nainja ettiseven
+FXA=96 ,fii tenja naintisiks
+FXB=A5 ,fii biija tentiphaiv
+FXC=B4 ,fii siija bitiphor
+FXD=C3 ,fii diija sitixhri
+FXE=D2 ,fii iija dititu
+FXF=E1 ,fii fiija iitivn
+FX10=F0 ,fii vntisunyja fitisuny
+-------------------------------------------
+10 20 30 40 50 60 70 80 90 A0 B0 C0 D0 E0 F0 100
+--------
+10X1=10 ,vntisuny vnja vntisuny
+10X2=20 ,vntisuny tuja tutisuny
+10X3=30 ,vntisuny xhrija xhrtisuny
+10X4=40 ,vntisuny phorja phortisuny
+10X5=50 ,vntisuny phaivja phiphtisuny
+10X6=60 ,vntisuny siksja sikstisuny
+10X7=70 ,vntisuny sevenja seventisuny
+10X8=80 ,vntisuny etja ettisuny
+10X9=90 ,vntisuny nainja naintisuny
+10XA=A0 ,vntisuny tenja tentisuny
+10XB=B0 ,vntisuny biija bitisuny
+10XC=C0 ,vntisuny siija sitisuny
+10XD=D0 ,vntisuny diija ditisuny
+10XE=E0 ,vntisuny iija iitisuny
+10XF=F0 ,vntisuny fiija fitisuny
+10X10=100 ,vntisuny vntisunyja vntisqu
+-------------------------------------------
+11 22 33 44 55 66 77 88 99 AA BB CC DD EE FF 110 121
+--------
+11X1=11 ,vntivn vnja vntivn
+11X2=22 ,vntivn tuja tutitu
+11X3=33 ,vntivn xhrija xhrtixhri
+11X4=44 ,vntivn phorja phortiphor
+11X5=55 ,vntivn phaivja phiphtiphii
+11X6=66 ,vntivn siksja sikstisiks
+11X7=77 ,vntivn sevenja seventiseven
+11X8=88 ,vntivn etja ettiet
+11X9=99 ,vntivn nainja naintinain
+11XA=AA ,vntivn tenja tentiten
+11XB=BB ,vntivn biija bitibi
+11XC=CC,vntivn siija sitisi
+11XD=DD,vntivn diija ditidi
+11XE=EE,vntivn iija iitiii
+11XF=FF,vntivn fiija fitifi
+11X10=110,vntivn vntisunyja vntisovntisuny
+11X11=121,vntivn vntivnja vntisotutivn
+
+--------------------------------------------------------------------
+2 4 6 8 A C E 10 12 14 16 18 1A 1C 1E 20
+3 6 9 C F 12 15 18 1B 1E 21 24 27 2A 2D 30
+4 8 C 10 14 18 1C 20 24 28 2C 30 34 38 3C 40
+5 A F 14 19 1E 23 28 2D 32 37 3C 41 46 4B 50
+6 C 12 18 1E 24 2A 30 36 3C 42 48 4E 54 5A 60
+7 E 15 1C 23 2A 31 38 3F 46 4D 54 5B 62 69 70
+8 10 18 20 28 30 38 40 48 50 58 60 68 70 78 80
+9 12 1B 24 2D 36 3F 48 51 5A 63 6C 75 7E 87 90
+A 14 1E 28 32 3C 46 50 5A 64 6E 78 82 8C 96 A0
+B 16 21 2C 37 42 4D 58 63 6E 79 84 8F 9A A5 B0
+C 18 24 30 3C 48 54 60 6C 78 84 90 9C A8 B4 C0
+D 1A 27 34 41 4E 5B 68 75 82 8F 9C A9 B6 C3 D0
+E 1C 2A 38 46 54 62 70 7E 8C 9A A8 B6 C4 D2 E0
+F 1E 2D 3C 4B 5A 69 78 87 96 A5 B4 C3 D2 E1 F0
+10 20 30 40 50 60 70 80 90 A0 B0 C0 D0 E0 F0 100
+11 22 33 44 55 66 77 88 99 AA BB CC DD EE FF 110 121
